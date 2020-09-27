@@ -24,4 +24,4 @@ Rear Camera  | Sony G Lens 20.7 MP 1/2.3" Exmor RS IMX220S back-side illuminated
 
 ## Device picture
 
-![Sony Xperia Z3](https://cdn.support.sonymobile.com/pi/xperiaz3.png "Sony Xperia Z3 in White")
+![Sony Xperia Z3](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sony_Xperia_Z3_x2_%2821535461552%29.jpg/1024px-Sony_Xperia_Z3_x2_%2821535461552%29.jpg "Sony Xperia Z3. Photo by Falcon® Photography from France / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)")
